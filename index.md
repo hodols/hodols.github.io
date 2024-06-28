@@ -2,45 +2,302 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/be1ac8a0-c1f0-42ea-82a7-8373a750bcab.png)
 
+## 용기의 여정을 함께할 'WalterBag_v3'
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
+<img src="https://cdn3.wadiz.kr/studio/images/2024/06/17/421bbc3a-fdc1-4479-9a04-526a7a7f2f03.jpeg" title="" alt="" data-align="inline">심리학자 알버트 반두라는 그의 논문 "Self-effic,acy: Toward a unifying theory of behavioral change" (1977)에서 <u>우리가 타인의 성공을 목격할 때 "나도 할 수 있다"는 자신감을 얻는다고 설명합니다. 이를 '대리 경험'이라고 하죠. 우리가 동경하는 누군가가 도전을 극복하는 모습은 우리에게 강력한 동기부여가 됩니다</u>.**WalterBag은 바로 이 원리에서 탄생했습니다**. 이 가방은 단순한 소지품 이상의 의미를 지닙니다. 이는 여러분의 내면에 잠든 모험가를 일깨우는 상징입니다. "**영화 속 주인공이 이 가방과 함께 놀라운 여정을 떠났듯이, 여러분도 각자의 이야기를 써내려갈 수 있습니다.**"
 
-## Usage
+# 스토리를 제품으로
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
+**당신의 다양한 꿈, 목표, 도전이 모티브가 되어 제품을 만듭니다.**
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+![](https://cdn3.wadiz.kr/studio/images/2024/06/09/86581ac1-ad1a-4122-823a-9214817dccdc.gif)
 
-### Files
+### 돌고 돌아왔습니다.
 
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
+몇번의 사업에 실패하고 자존감도 낮아 졌습니다. 잠이 오지 않는 밤에 무작정 하염없이 걸었습니다. 해가 뜰때까지 걸었을 때 감사하게도 더이상 떨어질 곳이 없으니 이제는 올라갈 일만 남았다고 생각이 들었고 목표도 생겼습니다. 도전하고 행동하는데 용기가 필요한 모든이에게 도움을 주는 것입니다. 성공의 이야기를 제품으로 만들고 사람들로 하여금 동기부여가 되고 용기를 가질 수 있는 제품을 진정성있게 만들 것입니다.
 
-## Example tag usage
+용기 있게 도전하고 성장하는 당신의 이야기가 우리 브랜드의 가치입니다. 
 
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
+<img title="" src="https://cdn3.wadiz.kr/studio/images/2024/06/18/c44a181a-c3a8-4c38-b06f-3cec23542f76.png" alt="" width="379" data-align="center">
 
-> blockquotes
+**레이크 필로소피**는 호수의 고요한 마음을 상징합니다. 
 
-~~~python
-import os,time
-print ("Biscuit")
-~~~
+월터백은 2019년 3월에 와디즈를 통해 처음 펀딩을 했습니다. 그리고 약 5년만에  뉴 버전을 선보이게 되었습니다.
 
-## Licence and Author Information
+ 2019년에는 모든 것이 처음이라 실수가 많았고 제품도 운영도 마음가짐도 다 부족했습니다. 브랜드의 가치 있는 활동을 통해 많은 사람들이 용기를 가지고 도전하고 성장하는 것에 초점을 맞춰 운영하겠습니다.![](https://cdn3.wadiz.kr/studio/images/2024/06/20/42d523ea-beac-413b-9853-13335fd803ba.png)
 
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
+#### PRODUCT
 
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/be1ac8a0-c1f0-42ea-82a7-8373a750bcab.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/e7cdf273-4653-4cf4-a84b-a8855f13df87.jpeg)
+
+## Walterbag 스토리
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/a116a078-e407-4418-976d-46017829088b.png)
+
+우연히 보게 된 영화**"월터의 상상은 현실이 된다"**에서 가슴이 뜨거워 졌다.
+
+주인공처럼 나도 상상으로만 생각 했던 일이 현실로 일어날 것 같았다. 
+
+저 가방을 메었을 때부터 그의 모험이 시작된 것 같았다. 저 가방을 가지고 싶었다.
+
+그런데 어디에도 팔지 않았다. 그래서 만들기로 했다.
+
+> 터닝포인트
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/44f0b9ce-49bd-4109-b5be-2c2808bbadc4.png)
+
+모든 것이 처음이라 하나하나 알아가는 과정이 쉽지 만은 않았다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/fff40d5d-20a7-44bc-86fa-131e907ff3be.png)
+
+지방에 살고 있어 서울로 올라가 원단도 알아보고
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/c8a5510b-421a-4b9d-b6da-43ad502c136a.png)
+
+부자재도 신중하게 고르고 또 골랐다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/17789997-917d-488a-b180-0a51e7b36735.png)
+
+3개월 간 봉제학원까지 다니며 제봉을 배웠고
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/d616c045-b4e8-4c91-8f79-be5d4c89c108.png)
+
+그렇게 가방은 완성 되었다.
+
+## 용기의 여정을 함께할 'WalterBag_v3'
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/17/421bbc3a-fdc1-4479-9a04-526a7a7f2f03.jpeg)심리학자 알버트 반두라는 그의 논문 "Self-effic,acy: Toward a unifying theory of behavioral change" (1977)에서 <u>우리가 타인의 성공을 목격할 때 "나도 할 수 있다"는 자신감을 얻는다고 설명합니다. 이를 '대리 경험'이라고 하죠. 우리가 동경하는 누군가가 도전을 극복하는 모습은 우리에게 강력한 동기부여가 됩니다</u>.**WalterBag은 바로 이 원리에서 탄생했습니다**. 이 가방은 단순한 소지품 이상의 의미를 지닙니다. 이는 여러분의 내면에 잠든 모험가를 일깨우는 상징입니다. "**영화 속 주인공이 이 가방과 함께 놀라운 여정을 떠났듯이, 여러분도 각자의 이야기를 써내려갈 수 있습니다.**"
+
+# 스토리를 제품으로
+
+**당신의 다양한 꿈, 목표, 도전이 모티브가 되어 제품을 만듭니다.**
+
+### ****
+
+## **안녕하세요, 저는 메이커 Lake입니다.**
+
+몇번의 사업에 실패하고 자존감도 낮아 졌습니다. 잠이 오지 않는 밤에 무작정 하염없이 걸었습니다. 해가 뜰때까지 걸었을 때 감사하게도 더이상 떨어질 곳이 없으니 이제는 올라갈 일만 남았다고 생각이 들었고 목표도 생겼습니다.
+
+"나의 상상은 현실이 된다" 
+
+자기에 자리에서 최고가 된 사람 혹은 도전하고 나아가는 사람들을 많이 알게 되었습니다. 그 사람들의 이야기를 제품으로 만들고 싶습니다. 그들의 도전이 여러분에게도 전해 지리라 믿습니다.
+
+용기 있게 도전하고 성장하는 당신의 이야기가 우리 브랜드의 가치입니다. 
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/c44a181a-c3a8-4c38-b06f-3cec23542f76.png)
+
+**레이크 필로소피**는 호수의 고요한 마음을 상징합니다. 
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/42343fbe-8c31-4f62-bd99-181ea50cb3c7.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/f0f95ce7-0cc2-413a-b588-e0dc80ddb3e6.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/89b10a3b-f10e-4740-9129-7a95b43c70f8.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/9fb52d77-643b-4bb4-8855-064e0b3f72d5.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/ad40f10d-11c7-445c-b6c1-b9d56c912843.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/0d401438-cc25-4c14-833d-f0f33a9d6313.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/62a1205d-6d7f-4566-ac7e-d5d8594cb3c1.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/57e2dcdd-2c28-46ea-afab-11b086f05d5d.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/efd0fd13-e4d0-4a69-beac-b7e7dc2b64ab.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/422b82ab-f101-4780-9ba3-87472a93d6b1.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/70cf32f9-9c48-423d-b5d7-7a65e1a43d7f.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/f54b6a96-8751-470a-888a-462384b8cf12.jpeg)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/e90a4a8d-ba62-4de0-a9aa-63d4269bcf7c.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/3f52c6ec-f4cb-4560-9ccf-83992f9f1d39.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/c7c9022f-ce38-4435-9b79-d1aa99ab23b2.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/6b70727f-3bbe-4adc-8078-eb5d7efdcce9.png)
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/3041dad7-5001-4514-a7b0-c11db787365a.png)
+
+# 색상 및 360˚
+
+**4가지 색상**을 준비 했습니다.
+
+## <u>Black</u> 블랙
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/19/514c58dd-d50f-4301-a0ca-abf544dddc3b.gif)
+
+## <u>Sky</u> 스카이
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/19/427a9af7-40fd-47e8-9c0f-94b506d5a067.gif)
+
+## <u>Lilac</u> 라일락
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/19/ccbfe868-887b-4a4c-b2a2-b35924a74970.gif)
+
+## <u>Olive</u> 올리브
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/19/a3a49c90-10be-4099-8e0e-65cea01184da.gif)
+
+# 무엇이 달라졌나?
+
+월터백은 2019년 3월에 와디즈를 통해 처음 펀딩을 했습니다. 그리고 약 5년만에  새로운 버전을 선보이게 되었습니다.
+
+#### 1. 브랜드
+
+마음가짐과 철학이 달라졌어요. 2019년에는 모든 것이 처음이라 실수가 많았고 제품도 운영도 마음가짐도 다 부족했습니다. 브랜드의 가치 있는 활동을 통해 많은 사람들이 용기를 가지고 도전하고 성장하는 것에 초점을 맞춰 운영하겠습니다.![](https://cdn3.wadiz.kr/studio/images/2024/06/20/42d523ea-beac-413b-9853-13335fd803ba.png)
+
+철학이 생겼고 방향성도 달라졌기에 새로운 로고와 브랜드 네임을 변경하게 되었습니다.
+
+#### 2. 원단과 부자재
+
+기존의 원단은 유럽의 Ventile이라는 역사가 있고 기능성이 또한 좋은 제품이었지만 이번에는 국내의 친환경 제품을 찾았습니다. 국내 기업 AMCOMPANY의 친환경 플라스틱 리싸이클 제품으로 국내에서 가방에 많이 쓰이는 대중적인 원단을 선택하게 되었습니다.  또한 지퍼도 YKK에서 HHH로 바꾸었습니다. HHH(태평양지퍼) 국내외에서 굉장히 신뢰 받는 기업으로 제품 자체로도 우수합니다. 
+
+#### 3. 사용 편의성
+
+사용 편의성을 고려해 상단 O링 비너와 사이드백 스타일에서 백팩 형태로 변형이 쉽게 하기 위해 회전 개고리를 추가하였습니다. 사용자의 기호에 따라 다양하게 커스텀 해서 사용 가능해서 자신만의 개성을 살릴 수 있습니다.
+
+개고리를 통해 빠르게 사이드/크로스에서 백팩 형태로 변환이 쉬워 졌습니다. 
+
+#### 4. 다양한 색상
+
+대중적인 검정색이 필요하다고 생각 했고 자신의 스타일에 따라 색상의 폭을 최대한 생각했습니다. 스카이 색상은 성별에 상관 없이 밝은 느낌이 들어 일상에서 언제든지 포인트가 될 수 있습니다. 라일락 색상은 여성스러우면서 귀여운 연출을 할 수 있습니다. 올리브 색상은 스토리의 아이덴티가 들어갔다고 할 수 있습니다.
+
+## 리싸이클 원단
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/8876a8ae-99f0-46b5-93fe-095eafc055a2.gif)
+
+**RE-CYCLY 나일론 사용**
+
+원단62%의 나일론과 38%의 리싸이클 나일론으로 제작된 원단으로 은은한 광택감을 주면서 코팅을 덧입혀 내구성을 강화하였습니다.  
+우리의 소비 선택이 환경 보호와 지속 가능한 패션 산업에 긍정적인 영향을 미칠 수 있는 메시지를 전합니다.  
+단순히 옷을 넘어서 우리의 가치와 의식을 대변합니다.
+
+**솔라 트윌의 유니크한 외관 표현**
+
+솔라 트윌의 조직감을 통해 두 가지 형태의 트윌이 복합적으로 보여져 일반적인 트윌의 형태보다 독특한 외관을 가지고 있습니다.  
+몸에 들러붙지 않는 거슬거슬한 터치감과 형태 안정성이 뛰어나 의류 및 모자, 가방 등 다양한 악세서리류에 사용할 수 있는 멀티 원단입니다.
+
+**제품의 외관과 실용성을 강화시킨 후가공 적용 원단**
+
+에어로 공정을 통해 원단의 은은한 자연스러운 구김을 구현하였습니다.  
+편안하고 자유로운 움직임을 제공하면서도 원단의 품질과 외관을 향상시킴으로써 세련된 스타일을 제시합니다.  
+<u>발수가공이 적용되어 일상의 다양한 환경에서도 생활발수</u>가 가능합니다.
+
+## 가벼운 무게
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/63c83045-51bc-4f5f-b619-13841d7261fa.jpeg)
+
+#### <u>195g, 스마트폰 보다 가벼운 무게</u>
+
+***로프 및 O링, 개고리 제외시 119g**
+
+## 상세 사이즈
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/20/30313a1c-d7d7-472b-a95a-7a5e1c2bcb1e.png)
+
+**내부 통과 지퍼 : 30cm**
+
+**분리 보관 주머니 지퍼 : 20cm**
+
+**가로 세로 높이 사이즈 :  22X22X52cm (원통형)**
+
+## 부자재 소개
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/49f53eba-80c2-4186-8916-f6752885fa1b.jpeg)
+
+<u><strong>HHH 지퍼 슬라이드 (3호)</strong></u>
+
+HHH 태평양 지퍼는 1980년에 창업해 세계에서 입지를 넓혀 가고 있고 기술력을 인정 받고 있습니다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/329c823d-f7fb-436e-a977-7a75ecce9140.jpeg)
+
+**<u>HHH 지퍼 테이프</u>**
+
+HHH 태평양 지퍼는 1980년에 창업해 세계에서 입지를 넓혀 가고 있고 기술력을 인정 받고 있습니다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/9da06497-aeda-4fd5-aa8a-3c274c59c023.jpeg)
+
+**<u>붕어 회전 개고리&nbsp;</u>**  
+
+여닫이가 사이드에 팁이 있어 사용에 용이합니다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/8775e159-5fac-47c7-b44f-03fbc7743edc.png)
+
+**<u>O링 비너 (내경 25mm)</u>**
+
+가방 상단 고리에 연결하여 악세사리나 인형등을 걸어서 사용가능합니다.
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/43c2d941-7f61-40d5-9e48-79194a9b2361.jpeg)
+
+**<u>면 꼬임 로프 (12mm)</u>**
+
+천연 재료인 방적사로 만들어져 부드럽고 이 가방의 디자인적으로 가장 큰 포인트가 됩니다.
+
+#### 끈(로프) 개고리 이동
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/1fc2b37b-ad70-446d-a0e9-cf9bab3aba3d.gif)
+
+#### 끈(로프) 길이 조절
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/7a3c6166-0b0f-47c9-9ee7-5585068e5134.gif)
+
+#### 내부 통과 지퍼 이용
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/887495ca-21fd-4ea3-b870-bf44bfef0a22.gif)
+
+#### 상단 링 비너 이용
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/a1f3a0af-7cbb-4af1-ae40-5941b409098e.gif)
+
+#### 상단 스토퍼 이용
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/7796a42f-ef64-4cca-bbbb-6f30f3a13d54.gif)
+
+#### 주머니 지퍼 이용
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/18/0792bc4f-cb54-43c4-9c09-32c5f7e49345.gif)
+
+#### Reward List
+
+![](https://cdn3.wadiz.kr/studio/images/2024/06/25/cf8cc088-4ec2-450a-a942-ea33dcb47d85.png)
+
+### 발송 및 프리오더 안내
+
+- 배송 방법
+
+리워드에 공지된 일정대로 대한통운 택배사를 통해 발송됩니다. 리워드에 따라 나누어지니 서포터님의 배송 일정을 꼭 확인하세요. 배송이 시작될 때마다 새 소식을 통해 내용 공유해 드리겠습니다. 
+
+**3PL 업체를 통해서 배송 될 경우 자체 배달 혹은 택배사가 변경 될 수 있음을 알려드립니다.**
+
+- 제주/도서 산간지역 배송비
+
+제주/도서산간에 따른 추가 배송비는 마테마틱이 부담하므로 서포터님이 부담하실 추가 배송비는 없습니다.
+
+- 생산시 부자재 및 라벨 디자인은 변경될 수 있습니다. 
+
+- 배송 시 포장상태
+
+비닐 포장 + 택배 박스포장 또는 택배비닐로 진행됩니다.
+
+- 리워드 포장 방법 및 수령 후 보관 시 유의 사항
+
+리워드 제품은 꼼꼼히 검수하여 비닐 포장하여 출고됩니다.
+
+수령 후 사용에 문제가 없으신지 살펴봐 주시고 사용 후 부드러운 천으로 닦아 보관해 주세요. 제품을 하나하나 검수하지만, 혹여라도 제품 하자가 있을 수 있으니 수령 후 14일 이내에 카카오 채널로 문의하시면 신속하게 처리해 드리겠습니다!
+
+### 서포터 안내
+
+- 리워드 옵션/배송지/카드정보는 펀딩 마감일까지 마이와디즈> 펀딩/프리오더 하기> 펀딩/프리오더 내역 페이지에서 수정가능합니다.
+
+- 펀딩 마감 이후 불가피한 사유로 배송지를 변경해야 하는 분은 해당페이지 내 메이커에게 문의하기를 통해서 문의해 주세요.
+
+※ 최종 결제일까지는 와디즈로 문의(와디즈 고객센터 1661-9056) 주시고 이후에는 레이크필로소피로 문의주세요. 그래야 빠르게 도와드릴 수 있답니다!
+
