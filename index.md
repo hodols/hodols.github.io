@@ -1,12 +1,12 @@
----
-layout: default
----
+**와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3의 리워드 펀딩을 진행하고 있습니다.**
 
-## Your imagination becomes a reality.
 
-**와디즈(wadiz.kr)에서 월터백v3의 리워드 펀딩을 진행하고 있습니다.**
 
-<img title="" src="https://cdn3.wadiz.kr/studio/images/2024/06/18/c44a181a-c3a8-4c38-b06f-3cec23542f76.png" alt="" width="567">
+# "용기 있는 이들의 이야기로 만든 제품, 당신의 도전을 응원합니다."
+
+<img title="" src="assets/bbag.jpg" alt="" width="380" data-align="center">
+
+
 
 # HISTORY
 
@@ -68,11 +68,15 @@ LAKE PHILOSOPHY는 호수의 고요한 마음을 상징합니다.
 
 ![](https://cdn3.wadiz.kr/studio/images/2024/06/17/421bbc3a-fdc1-4479-9a04-526a7a7f2f03.jpeg)심리학자 알버트 반두라는 그의 논문 "Self-effic,acy: Toward a unifying theory of behavioral change" (1977)에서 <u>우리가 타인의 성공을 목격할 때 "나도 할 수 있다"는 자신감을 얻는다고 설명합니다. 이를 '대리 경험'이라고 하죠. 우리가 동경하는 누군가가 도전을 극복하는 모습은 우리에게 강력한 동기부여가 됩니다</u>.**WalterBag은 바로 이 원리에서 탄생했습니다**. 이 가방은 단순한 소지품 이상의 의미를 지닙니다. 이는 여러분의 내면에 잠든 모험가를 일깨우는 상징입니다. "**영화 속 주인공이 이 가방과 함께 놀라운 여정을 떠났듯이, 여러분도 각자의 이야기를 써내려갈 수 있습니다.**"
 
+
+
+
+
 # 스토리를 제품으로
 
 **당신의 다양한 꿈, 목표, 도전이 모티브가 되어 제품을 만듭니다.**
 
-### ****
+![](https://cdn3.wadiz.kr/studio/images/2024/06/09/86581ac1-ad1a-4122-823a-9214817dccdc.gif)
 
 ## **안녕하세요, 저는 메이커 Lake입니다.**
 
@@ -296,6 +300,7 @@ HHH 태평양 지퍼는 1980년에 창업해 세계에서 입지를 넓혀 가�
 - 펀딩 마감 이후 불가피한 사유로 배송지를 변경해야 하는 분은 해당페이지 내 메이커에게 문의하기를 통해서 문의해 주세요.
 
 ※ 최종 결제일까지는 와디즈로 문의(와디즈 고객센터 1661-9056) 주시고 이후에는 레이크필로소피로 문의주세요. 그래야 빠르게 도와드릴 수 있답니다!
+
 
 
 
