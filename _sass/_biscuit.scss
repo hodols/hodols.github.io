@@ -4,7 +4,7 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 34rem) {
   html {
     font-size: 18px;
   }
@@ -15,7 +15,7 @@ body {
   color: #333;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 34rem) {
   body {
     margin-top: 5rem;
   }
@@ -58,7 +58,7 @@ h1 {
   margin-bottom: 1rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 34rem) {
   h1 {
     font-size: 2.5rem;
     margin-bottom: 3rem;
@@ -75,7 +75,7 @@ h2 {
   margin-bottom: 0.75rem;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 34rem) {
   h2 {
     margin-top: 2.5rem;
     font-size: 1.2rem;
@@ -168,7 +168,7 @@ pre > code {
 }
 
 .container {
-  max-width: 30rem;
+  max-width: 34rem;
   margin: 0 auto;
   padding: 0 1rem;
 }
