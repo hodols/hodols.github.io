@@ -1,6 +1,6 @@
+**와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3의 리워드 펀딩을 진행하고 있습니다.**
 ![](assets/downhill.png)
 
-**와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3의 리워드 펀딩을 진행하고 있습니다.**
 
 # "용기 있는 이들의 이야기로 만든 제품, 당신의 도전을 응원합니다."
 
