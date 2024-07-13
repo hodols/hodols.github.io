@@ -1,15 +1,12 @@
+
 **와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3를 만나세요!**
 **[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)**
 <br>
 
 ![](https://lakephilosophy.com/assets/downhill.png)
-<br><br><br><br>
-![](https://lakephilosophy.com/assets/bbag.jpg)
-<br><br><br>
-![](https://cdn3.wadiz.kr/studio/images/2024/06/23/be1ac8a0-c1f0-42ea-82a7-8373a750bcab.png)
-<br><br>
-![](https://cdn3.wadiz.kr/studio/images/2024/06/26/e7cdf273-4653-4cf4-a84b-a8855f13df87.jpeg)
-<br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+
 ## WalterBag STORY
 
 ### 터닝 포인트
@@ -64,6 +61,10 @@
 
 **레이크 필로소피**는 호수의 고요한 마음을 상징합니다. 
 <br><br><br><br>
+![](https://cdn3.wadiz.kr/studio/images/2024/06/23/be1ac8a0-c1f0-42ea-82a7-8373a750bcab.png)
+<br><br>
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/e7cdf273-4653-4cf4-a84b-a8855f13df87.jpeg)
+<br><br><br>
 ![](https://cdn3.wadiz.kr/studio/images/2024/06/23/42343fbe-8c31-4f62-bd99-181ea50cb3c7.jpeg)
 
 ![](https://cdn3.wadiz.kr/studio/images/2024/06/23/f0f95ce7-0cc2-413a-b588-e0dc80ddb3e6.jpeg)
