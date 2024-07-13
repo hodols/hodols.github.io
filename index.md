@@ -1,6 +1,5 @@
 **와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3를 만나세요!**
-
-<div style="text-align: right"> [구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki) </div>
+**[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)**
 <br>
 
 ![](https://lakephilosophy.com/assets/downhill.png)
@@ -141,10 +140,10 @@
 
 #### Reward List
 
-[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)
+**[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)**
 
 ![](https://cdn3.wadiz.kr/studio/images/2024/06/25/cf8cc088-4ec2-450a-a942-ea33dcb47d85.png)
 
-[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)
+**[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)**
 
 <br><br><br>
