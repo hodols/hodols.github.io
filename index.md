@@ -1,16 +1,16 @@
-와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3의 리워드 펀딩을 진행하고 있습니다.
+**와디즈([wadiz.kr](https://wadiz.onelink.me/gmeA/6nkc1bki))에서 월터백v3를 만나세요!**
 **[구입하기](https://wadiz.onelink.me/gmeA/6nkc1bki)**
 
 <br>
 
 ![](https://lakephilosophy.com/assets/downhill.png)
-<br><br>
+<br><br><br><br>
 ![](https://lakephilosophy.com/assets/bbag.jpg)
-<br><br>
+<br><br><br>
 ![](https://cdn3.wadiz.kr/studio/images/2024/06/23/be1ac8a0-c1f0-42ea-82a7-8373a750bcab.png)
-<br>
-![](https://cdn3.wadiz.kr/studio/images/2024/06/26/e7cdf273-4653-4cf4-a84b-a8855f13df87.jpeg)
 <br><br>
+![](https://cdn3.wadiz.kr/studio/images/2024/06/26/e7cdf273-4653-4cf4-a84b-a8855f13df87.jpeg)
+<br><br><br>
 ## WalterBag STORY
 
 ### 터닝 포인트
